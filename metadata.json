@@ -1,0 +1,5 @@
+{
+  "name": "LaTeX Math Formatter",
+  "description": "Ứng dụng chuyển đổi đề bài và lời giải toán học sang cấu trúc LaTeX chuẩn chuyên nghiệp.",
+  "requestFramePermissions": []
+}
